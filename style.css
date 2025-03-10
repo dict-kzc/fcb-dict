@@ -57,6 +57,9 @@ footer {
 	margin: 0 10px 0 10px;	
 }
 
+.fa-globe:hover, .fa-square-facebook:hover, .fa-square-x-twitter:hover, .fa-youtube:hover {
+  color:  grey;
+}
 
 
 .fa-file-code, .fa-css3-alt, .fa-bootstrap {
